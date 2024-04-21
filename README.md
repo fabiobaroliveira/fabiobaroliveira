@@ -1,6 +1,6 @@
 ### Olá 👋
 ###### Sobre o Fabio
-Sou um profissional com 16 anos de experiência na área automotiva, atualmente em transicção de carreira para análise de dados, estou me especializando em ferramentas como Excel, Power Query, Power BI, Python e SQL Server.
+Sou um profissional com 16 anos de experiência na área automotiva, atualmente em transição de carreira para análise de dados, estou me especializando em ferramentas como Excel, Power Query, Power BI, Python e SQL Server.
 
 Durante minha experiência profissional pude realizar atividades como:
 
