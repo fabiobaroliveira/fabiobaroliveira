@@ -8,7 +8,7 @@ Durante minha experiência profissional pude realizar atividades como:
 • Avaliação, Compra e Venda de veículos
 • Negociação com Fornecedores e Prestadores de serviço
 
-Tenho domínio nas ferramentas Microsoft Excel, Word, Power Point e Power BI.
+Tenho domínio nas ferramentas Microsoft Excel, Word, Power Point e Power BI. Estou estudando as linguagens de programação Python e SQL.
 
 Estou cursando 5° semestre de Tecnólogo em Sistemas Automotivos no SENAI "Conde José Vicente de Azevedo" com previsão de termino em Dezembro de 2025.
 
