@@ -1,15 +1,18 @@
 ### Olá 👋
 ###### Sobre o Fabio
-Sou um profissional com 16 anos de experiência na área automotiva, atualmente em transição de carreira para análise de dados, estou me especializando em ferramentas como Excel, Power Query, Power BI, Python e SQL Server.
+Estou em busca de uma posição onde possa aplicar minhas habilidades em análise de dados e suporte ao planejamento estratégico, contribuindo para a melhoria contínua dos processos e a tomada de decisões baseadas em dados.
 
 Durante minha experiência profissional pude realizar atividades como:
 
-• Atendimento ao cliente.
-• Vistoria veicular.
-• Rotinas da área vendas e pós venda de veículo em concessionária.
-• Elaboração de orçamento e manutenção de veículos leves, como revisões preventivas, corretivas e diagnóstico em sistema de injeção eletrônica, desmontagem e montagem de motores, suspensão, direção e freios.
+• Atendimento ao Cliente
+• Avaliação, Compra e Venda de veículos
+• Negociação com Fornecedores e Prestadores de serviço
 
-Estou cursando 3° semestre de Tecnólogo em Sistemas Automotivos no  SENAI "Conde José Vicente de Azevedo" com previsão de termino em Dezembro de 2025.
+Tenho domínio nas ferramentas Microsoft Excel, Word, Power Point e Power BI.
+
+Estou cursando 5° semestre de Tecnólogo em Sistemas Automotivos no SENAI "Conde José Vicente de Azevedo" com previsão de termino em Dezembro de 2025.
+
+E-mail: fabio.barbosa@outlook.com.br
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiobaroliveira&show_icons=true&theme=dark)](https://github.com/fabiobaroliveira/github-readme-stats)
