@@ -16,7 +16,7 @@ Inspirado em uma vaga que eu vi aqui no LinkedIn para Analista de Inteligência 
 
 no LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7335050895216275456/
 
-no Googlr Looker Studio: https://lookerstudio.google.com/s/n85tqH-Ngxs
+no Google Looker Studio: https://lookerstudio.google.com/s/n85tqH-Ngxs
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiobaroliveira&show_icons=true&theme=dark)](https://github.com/fabiobaroliveira/github-readme-stats)
 
