@@ -11,12 +11,10 @@ Busco oportunidades para realizar minha transição de carreira e aplicar minha 
 
 E-mail: fabio.barbosa@outlook.com.br
 
-Inspirado em uma vaga que eu vi aqui no LinkedIn para Analista de Inteligência de Negócios, criei um projeto de Business Intelligence que desenvolvido no Looker Studio, a publicação:
-
-no LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7335050895216275456/
-
-no Google Looker Studio: https://lookerstudio.google.com/s/n85tqH-Ngxs
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiobaroliveira&show_icons=true&theme=dark)](https://github.com/fabiobaroliveira/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiobaroliveira&repo=python_automotive_group.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
