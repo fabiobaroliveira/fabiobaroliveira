@@ -9,8 +9,6 @@ Desenvolvi projetos práticos focados em análise e visualização de dados, uti
 
 Busco oportunidades para realizar minha transição de carreira e aplicar minha expertise técnica, contribuindo com qualidade de dados, integridade e análises que gerem valor real para o negócio.
 
-E-mail: fabio.barbosa@outlook.com.br
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiobaroliveira&show_icons=true&theme=dark)](https://github.com/fabiobaroliveira/github-readme-stats)
 
 ### Projetos
@@ -24,4 +22,4 @@ E-mail: fabio.barbosa@outlook.com.br
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/fabioboliveira/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/fbarbosaoliveira/)
