@@ -15,7 +15,8 @@ E-mail: fabio.barbosa@outlook.com.br
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiobaroliveira&repo=python_automotive_group.github.io&theme=dark)](https://github.com/fabiobaroliveira/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobaroliveira&layout=compact)](https://github.com/fabiobaroliveira/github-readme-stats)
