@@ -1,11 +1,16 @@
 ### Olá 👋
 ###### Sobre o Fabio
-Analista de Dados em formação pela EBAC e graduando em Tecnólogo em Sistemas Automotivos (SENAI), combino um perfil analítico e orientado à resolução de problemas.
-Desenvolvi projetos práticos focados em análise e visualização de dados, utilizando ferramentas como Power BI, Google Looker Studio e Streamlit para criar dashboards interativos, relatórios gerenciais e KPIs que impulsionam a tomada de decisão estratégica.
+Analista de Dados com formação pela EBAC e graduando em Tecnólogo em Sistemas Automotivos (SENAI), combino um perfil analítico e orientado à resolução de problemas.
+
+Desenvolvi projetos práticos e pessoais focados em análise e visualização de dados como oportunidade de praticar meus conhecimentos, utilizei ferramentas como Power BI, Google Looker Studio e Streamlit para criar dashboards interativos, relatórios gerenciais e KPIs que impulsionam a tomada de decisão estratégica.
 
 ●	Habilidades em Análise de Dados: Coleta, limpeza, modelagem e exploração de dados (EDA) com Python (Pandas, Matplotlib) e SQL (query, joins). Business Intelligence (BI): Criação de visualizações e automação de relatórios em Power BI e Looker Studio, linguagem DAX e Excel Avançado. Transformação de Dados (ETL): Manipulação e pré-processamento de grandes volumes de dados (ex: projeto com +21M registros).
 
 ●	Conhecimentos  em  Análise de Mercado e Competitividade, com capacidade de transformar dados complexos em insights estratégicos e recomendações acionáveis. Domínio na identificação de tendências, oportunidades de otimização e gaps competitivos, alinhando análises aos objetivos do negócio para impulsionar decisões baseadas em dados.
+
+●	Noções de Computação em Nuvem e Big Data,  uso de AWS para gerenciar serviços de nuvem e executar códigos Python com AWS Lambda. Manipulação de grandes conjuntos de dados com Apache Spark e Data Lakes, aplicando ETL para carga e transformação, e análises avançadas com PySpark e PyArrow.
+
+Busco oportunidades para realizar minha transição de carreira e aplicar minha expertise técnica, contribuindo com qualidade de dados, integridade e análises que gerem valor real para o negócio.
 
 Busco oportunidades para realizar minha transição de carreira e aplicar minha expertise técnica, contribuindo com qualidade de dados, integridade e análises que gerem valor real para o negócio.
 
