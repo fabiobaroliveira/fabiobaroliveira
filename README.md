@@ -10,9 +10,6 @@ Desenvolvi projetos práticos e pessoais focados em análise e visualização de
 
 ●	Noções de Computação em Nuvem e Big Data,  uso de AWS para gerenciar serviços de nuvem e executar códigos Python com AWS Lambda. Manipulação de grandes conjuntos de dados com Apache Spark e Data Lakes, aplicando ETL para carga e transformação, e análises avançadas com PySpark e PyArrow.
 
-Busco oportunidades para realizar minha transição de carreira e aplicar minha expertise técnica, contribuindo com qualidade de dados, integridade e análises que gerem valor real para o negócio.
-
-Busco oportunidades para realizar minha transição de carreira e aplicar minha expertise técnica, contribuindo com qualidade de dados, integridade e análises que gerem valor real para o negócio.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiobaroliveira&show_icons=true&theme=dark)](https://github.com/fabiobaroliveira/github-readme-stats)
 
