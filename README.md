@@ -58,11 +58,9 @@ Análise geoespacial de cobertura de rede, parque circulante e potencial de pós
 
 ## Formação
 
-- Pós-graduação em Data Science, Data Science Academy (DSA), em andamento
+- Pós-graduação de Analista de Dados, Data Science Academy (DSA), em andamento
 - Mentoria Marketmasters (marketing analytics), em andamento
-- Tecnólogo em Sistemas Automotivos, SENAI, em andamento
-- Formação em Análise de Dados, EBAC
-
+- Tecnólogo em Sistemas Automotivos, SENAI, concluído em 2025
 ---
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiobaroliveira&show_icons=true&theme=dark)](https://github.com/fabiobaroliveira/github-readme-stats)
